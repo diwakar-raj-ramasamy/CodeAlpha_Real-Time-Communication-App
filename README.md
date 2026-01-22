@@ -2,7 +2,6 @@
 
 A feature-rich video conferencing application built with the MERN stack (MongoDB, Express, React, Node.js), Socket.IO, and WebRTC (PeerJS). This application allows users to create private rooms for video calls, real-time chat, and collaborative whiteboarding.
 
-![App Screenshot](./client/public/vite.svg) *Add a screenshot of your app here*
 
 ## 🚀 Features
 
